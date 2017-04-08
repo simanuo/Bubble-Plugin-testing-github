@@ -1,0 +1,12 @@
+{
+    "category": "plugins",
+    "display": "Action 1",
+    "fields": {
+        "AAN": {
+            "caption": "Field",
+            "editor": "StaticText",
+            "name": "field"
+        }
+    },
+    "type": "client_side"
+}

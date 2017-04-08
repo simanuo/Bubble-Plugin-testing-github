@@ -1,0 +1,21 @@
+{
+    "assets": {
+        "AAE": {
+            "name": "file",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1491598610707x363171884324401600/Bubble_Dedicated_Plans.pdf"
+        }
+    },
+    "dependencies": {
+        "use_jquery": true
+    },
+    "shared_keys": {
+        "AAD": {
+            "caption": "fdsa",
+            "type": "client_safe"
+        },
+        "AAO": {
+            "caption": "fdsfds",
+            "type": "client_safe"
+        }
+    }
+}

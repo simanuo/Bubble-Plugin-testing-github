@@ -1,0 +1,27 @@
+{
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 200,
+        "width": 400
+    },
+    "display": "Element Cool",
+    "fields": {
+        "AAK": {
+            "caption": "Field A",
+            "editor": "StaticText",
+            "name": "field_a"
+        },
+        "AAL": {
+            "caption": "Field B",
+            "editor": "DynamicValue",
+            "name": "field_b",
+            "value": "text"
+        }
+    },
+    "icon": "ion-android-checkbox-blank",
+    "property_applications": {
+        "Border": true,
+        "resizable": true
+    }
+}

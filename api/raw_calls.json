@@ -1,0 +1,33 @@
+{
+    "auth": "oauth2_pw",
+    "calls": {
+        "AAF": {
+            "method": "get",
+            "name": "GET",
+            "publish_as": "data",
+            "url": "https://api.sandbox.stripe.com/v2.01/[ClientId]/users/[UserId]",
+            "url_params": {
+                "AAH": {
+                    "key": "ClientId",
+                    "private": true,
+                    "value": "demo"
+                },
+                "AAI": {
+                    "key": "UserId",
+                    "private": true,
+                    "value": "23324770"
+                }
+            }
+        }
+    },
+    "human": "Stripe",
+    "shared_headers": {
+        "AAG": {
+            "key": "Content-Types",
+            "private": true,
+            "value": "application/json",
+            "visibility": "hidden"
+        }
+    },
+    "token_endpoint": "https://api.stripe.mangopay.com/v2.201/oauth/token/klkl"
+}
