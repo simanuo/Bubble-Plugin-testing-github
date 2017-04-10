@@ -6,14 +6,17 @@
         "width": 400
     },
     "display": "Element Cool",
+    "edit_mode_image": "//s3.amazonaws.com/appforest_uf/f1491850319043x575575192924588900/Bubble_Logo_new_blue_small.png",
     "fields": {
         "AAK": {
             "caption": "Field A",
+            "doc": "d",
             "editor": "StaticText",
             "name": "field_a"
         },
         "AAL": {
             "caption": "Field B",
+            "doc": "d",
             "editor": "DynamicValue",
             "name": "field_b",
             "value": "text"

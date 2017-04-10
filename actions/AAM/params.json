@@ -4,6 +4,7 @@
     "fields": {
         "AAN": {
             "caption": "Field",
+            "doc": "ddd",
             "editor": "StaticText",
             "name": "field"
         }
